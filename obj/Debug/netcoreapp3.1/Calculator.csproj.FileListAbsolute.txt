@@ -1,0 +1,25 @@
+F:\Lexicon Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+F:\Lexicon Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+F:\Lexicon Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+F:\Lexicon Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+F:\Lexicon Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+F:\Lexicon Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+F:\Lexicon Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+F:\Lexicon Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+F:\Lexicon Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+F:\Lexicon Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+F:\Lexicon Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+F:\Lexicon Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+F:\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+F:\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+F:\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+F:\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+F:\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+F:\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+F:\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+F:\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+F:\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+F:\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+F:\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+F:\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+F:\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
